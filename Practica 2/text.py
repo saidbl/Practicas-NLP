@@ -20,3 +20,13 @@ top_words = word_count.most_common(100)
 
 for word, count in top_words:
     print(word, count)
+
+from nltk.probability import FreqDist
+
+frequency_words = FreqDist(filtered_words)
+
+print("\nLas 100 palabras más frecuentes (excluyendo stopwords):")
+for word, frequency in frequency_words.most_common(100):
+    print(f"{word}: {frequency}")
+
+
