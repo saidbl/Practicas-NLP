@@ -1,0 +1,12 @@
+Aspecto,Valor
+Dataset,amazon_polarity
+Tipo de problema,Clasificación binaria
+Clase negativa,0 = negativa
+Clase positiva,1 = positiva
+Tamaño train,"3,600,000"
+Tamaño test,"400,000"
+Representación,TF-IDF
+Configuración TF-IDF,"max_features=20000, ngram_range=(1,2), stop_words='english'"
+Modelos comparados,SGDClassifier_LogLoss_Mejorado y ComplementNB_Mejorado
+Uso de todo el dataset,Sí
+Limpieza de texto,Sí

@@ -1,0 +1,3 @@
+Modelo,Accuracy,Precision,Recall,F1-score,Balanced Accuracy,MCC,ROC-AUC,PR-AUC,Log Loss,Train Time (min),Eval Time (min)
+SGDClassifier_LogLoss,0.8792,0.8809,0.8771,0.879,0.8792,0.7585,0.9492,0.9497,0.3028,4.53,1.16
+ComplementNB,0.828,0.8338,0.8193,0.8265,0.828,0.6562,0.9076,0.9045,0.431,7.72,5.33

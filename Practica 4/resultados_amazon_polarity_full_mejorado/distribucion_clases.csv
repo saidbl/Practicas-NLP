@@ -1,0 +1,5 @@
+Split,Clase,Cantidad,Porcentaje
+train,0,1800000,50.0
+train,1,1800000,50.0
+test,0,200000,50.0
+test,1,200000,50.0

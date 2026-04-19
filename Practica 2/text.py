@@ -7,7 +7,7 @@ nltk.download('stopwords')
 
 stop_words = set(stopwords.words('english')) | set(stopwords.words('spanish'))
 
-with open("text2.txt", "r", encoding="utf-8") as file:
+with open("text.txt", "r", encoding="utf-8") as file:
     text = file.read().lower()
 
 words = re.findall(r'\b[a-zA-ZáéíóúÁÉÍÓÚñÑüÜ]+\b', text)
