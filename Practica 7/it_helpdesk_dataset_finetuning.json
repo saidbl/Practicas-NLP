@@ -1,0 +1,977 @@
+[
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I cannot connect to the WiFi.",
+    "output": "Diagnosis: possible wireless connection or authentication problem. Solution: verify that WiFi is enabled, confirm that you are selecting the correct network, retype the password carefully, forget the network and connect again, then restart the router or the device if needed. If the issue continues, contact IT support."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My laptop does not connect to the wireless network.",
+    "output": "Diagnosis: possible wireless connection or authentication problem. Solution: verify that WiFi is enabled, confirm that you are selecting the correct network, retype the password carefully, forget the network and connect again, then restart the router or the device if needed. If the issue continues, contact IT support."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The WiFi asks for a password but it does not connect.",
+    "output": "Diagnosis: possible wireless connection or authentication problem. Solution: verify that WiFi is enabled, confirm that you are selecting the correct network, retype the password carefully, forget the network and connect again, then restart the router or the device if needed. If the issue continues, contact IT support."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I forgot the WiFi network and now I cannot reconnect.",
+    "output": "Diagnosis: possible wireless connection or authentication problem. Solution: verify that WiFi is enabled, confirm that you are selecting the correct network, retype the password carefully, forget the network and connect again, then restart the router or the device if needed. If the issue continues, contact IT support."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My computer says it is unable to join the WiFi.",
+    "output": "Diagnosis: possible wireless connection or authentication problem. Solution: verify that WiFi is enabled, confirm that you are selecting the correct network, retype the password carefully, forget the network and connect again, then restart the router or the device if needed. If the issue continues, contact IT support."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The office WiFi is not working on my laptop.",
+    "output": "Diagnosis: possible wireless connection or authentication problem. Solution: verify that WiFi is enabled, confirm that you are selecting the correct network, retype the password carefully, forget the network and connect again, then restart the router or the device if needed. If the issue continues, contact IT support."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The school WiFi does not let me connect.",
+    "output": "Diagnosis: possible wireless connection or authentication problem. Solution: verify that WiFi is enabled, confirm that you are selecting the correct network, retype the password carefully, forget the network and connect again, then restart the router or the device if needed. If the issue continues, contact IT support."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My device keeps trying to connect to WiFi but fails.",
+    "output": "Diagnosis: possible wireless connection or authentication problem. Solution: verify that WiFi is enabled, confirm that you are selecting the correct network, retype the password carefully, forget the network and connect again, then restart the router or the device if needed. If the issue continues, contact IT support."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I get an authentication error when connecting to WiFi.",
+    "output": "Diagnosis: possible wireless connection or authentication problem. Solution: verify that WiFi is enabled, confirm that you are selecting the correct network, retype the password carefully, forget the network and connect again, then restart the router or the device if needed. If the issue continues, contact IT support."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The WiFi network appears but connection fails.",
+    "output": "Diagnosis: possible wireless connection or authentication problem. Solution: verify that WiFi is enabled, confirm that you are selecting the correct network, retype the password carefully, forget the network and connect again, then restart the router or the device if needed. If the issue continues, contact IT support."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The WiFi is connected but websites do not load.",
+    "output": "Diagnosis: possible internet, DNS, or gateway issue. Solution: try opening another website, restart the browser, disconnect and reconnect to WiFi, restart the router, and run the network troubleshooter. If other users have the same problem, report it to IT support."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My computer shows connected but there is no internet.",
+    "output": "Diagnosis: possible internet, DNS, or gateway issue. Solution: try opening another website, restart the browser, disconnect and reconnect to WiFi, restart the router, and run the network troubleshooter. If other users have the same problem, report it to IT support."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I am connected to the network but I cannot browse.",
+    "output": "Diagnosis: possible internet, DNS, or gateway issue. Solution: try opening another website, restart the browser, disconnect and reconnect to WiFi, restart the router, and run the network troubleshooter. If other users have the same problem, report it to IT support."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The network icon says connected but nothing opens.",
+    "output": "Diagnosis: possible internet, DNS, or gateway issue. Solution: try opening another website, restart the browser, disconnect and reconnect to WiFi, restart the router, and run the network troubleshooter. If other users have the same problem, report it to IT support."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I have WiFi signal but no internet access.",
+    "output": "Diagnosis: possible internet, DNS, or gateway issue. Solution: try opening another website, restart the browser, disconnect and reconnect to WiFi, restart the router, and run the network troubleshooter. If other users have the same problem, report it to IT support."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "Pages do not load even though WiFi is connected.",
+    "output": "Diagnosis: possible internet, DNS, or gateway issue. Solution: try opening another website, restart the browser, disconnect and reconnect to WiFi, restart the router, and run the network troubleshooter. If other users have the same problem, report it to IT support."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My browser says there is no connection while WiFi is on.",
+    "output": "Diagnosis: possible internet, DNS, or gateway issue. Solution: try opening another website, restart the browser, disconnect and reconnect to WiFi, restart the router, and run the network troubleshooter. If other users have the same problem, report it to IT support."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I can connect to WiFi but online apps do not work.",
+    "output": "Diagnosis: possible internet, DNS, or gateway issue. Solution: try opening another website, restart the browser, disconnect and reconnect to WiFi, restart the router, and run the network troubleshooter. If other users have the same problem, report it to IT support."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The connection says secured but I cannot access the internet.",
+    "output": "Diagnosis: possible internet, DNS, or gateway issue. Solution: try opening another website, restart the browser, disconnect and reconnect to WiFi, restart the router, and run the network troubleshooter. If other users have the same problem, report it to IT support."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The internet is very slow.",
+    "output": "Diagnosis: possible weak signal, network congestion, or unstable connection. Solution: move closer to the router, close downloads or streaming apps, restart the modem or router, test with an Ethernet cable if possible, and report the issue if several users are affected."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The network is too slow today.",
+    "output": "Diagnosis: possible weak signal, network congestion, or unstable connection. Solution: move closer to the router, close downloads or streaming apps, restart the modem or router, test with an Ethernet cable if possible, and report the issue if several users are affected."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My internet disconnects frequently.",
+    "output": "Diagnosis: possible weak signal, network congestion, or unstable connection. Solution: move closer to the router, close downloads or streaming apps, restart the modem or router, test with an Ethernet cable if possible, and report the issue if several users are affected."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The connection drops every few minutes.",
+    "output": "Diagnosis: possible weak signal, network congestion, or unstable connection. Solution: move closer to the router, close downloads or streaming apps, restart the modem or router, test with an Ethernet cable if possible, and report the issue if several users are affected."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "Video calls freeze because of the internet.",
+    "output": "Diagnosis: possible weak signal, network congestion, or unstable connection. Solution: move closer to the router, close downloads or streaming apps, restart the modem or router, test with an Ethernet cable if possible, and report the issue if several users are affected."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "Downloads are taking too long.",
+    "output": "Diagnosis: possible weak signal, network congestion, or unstable connection. Solution: move closer to the router, close downloads or streaming apps, restart the modem or router, test with an Ethernet cable if possible, and report the issue if several users are affected."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The WiFi signal is weak.",
+    "output": "Diagnosis: possible weak signal, network congestion, or unstable connection. Solution: move closer to the router, close downloads or streaming apps, restart the modem or router, test with an Ethernet cable if possible, and report the issue if several users are affected."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The connection is unstable in my office.",
+    "output": "Diagnosis: possible weak signal, network congestion, or unstable connection. Solution: move closer to the router, close downloads or streaming apps, restart the modem or router, test with an Ethernet cable if possible, and report the issue if several users are affected."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The network works for a while and then stops.",
+    "output": "Diagnosis: possible weak signal, network congestion, or unstable connection. Solution: move closer to the router, close downloads or streaming apps, restart the modem or router, test with an Ethernet cable if possible, and report the issue if several users are affected."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My internet speed is much lower than usual.",
+    "output": "Diagnosis: possible weak signal, network congestion, or unstable connection. Solution: move closer to the router, close downloads or streaming apps, restart the modem or router, test with an Ethernet cable if possible, and report the issue if several users are affected."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I have no internet even with the network cable connected.",
+    "output": "Diagnosis: possible Ethernet cable, network port, or IP configuration problem. Solution: check that the cable is firmly connected, try another port or cable, restart the network adapter, and verify that the device receives a valid IP address. Escalate to IT if the port may be damaged."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The Ethernet cable is connected but there is no network.",
+    "output": "Diagnosis: possible Ethernet cable, network port, or IP configuration problem. Solution: check that the cable is firmly connected, try another port or cable, restart the network adapter, and verify that the device receives a valid IP address. Escalate to IT if the port may be damaged."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My computer does not detect the wired connection.",
+    "output": "Diagnosis: possible Ethernet cable, network port, or IP configuration problem. Solution: check that the cable is firmly connected, try another port or cable, restart the network adapter, and verify that the device receives a valid IP address. Escalate to IT if the port may be damaged."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The LAN cable does not give me internet.",
+    "output": "Diagnosis: possible Ethernet cable, network port, or IP configuration problem. Solution: check that the cable is firmly connected, try another port or cable, restart the network adapter, and verify that the device receives a valid IP address. Escalate to IT if the port may be damaged."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The network port does not seem to work.",
+    "output": "Diagnosis: possible Ethernet cable, network port, or IP configuration problem. Solution: check that the cable is firmly connected, try another port or cable, restart the network adapter, and verify that the device receives a valid IP address. Escalate to IT if the port may be damaged."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The cable is plugged in but Windows says no network.",
+    "output": "Diagnosis: possible Ethernet cable, network port, or IP configuration problem. Solution: check that the cable is firmly connected, try another port or cable, restart the network adapter, and verify that the device receives a valid IP address. Escalate to IT if the port may be damaged."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I connected Ethernet and still cannot browse.",
+    "output": "Diagnosis: possible Ethernet cable, network port, or IP configuration problem. Solution: check that the cable is firmly connected, try another port or cable, restart the network adapter, and verify that the device receives a valid IP address. Escalate to IT if the port may be damaged."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The wired network says unidentified network.",
+    "output": "Diagnosis: possible Ethernet cable, network port, or IP configuration problem. Solution: check that the cable is firmly connected, try another port or cable, restart the network adapter, and verify that the device receives a valid IP address. Escalate to IT if the port may be damaged."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The Ethernet connection keeps disconnecting.",
+    "output": "Diagnosis: possible Ethernet cable, network port, or IP configuration problem. Solution: check that the cable is firmly connected, try another port or cable, restart the network adapter, and verify that the device receives a valid IP address. Escalate to IT if the port may be damaged."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I cannot connect to the VPN.",
+    "output": "Diagnosis: possible VPN credentials, network, or permission issue. Solution: verify your internet connection, confirm your username and password, restart the VPN client, check that the correct server is selected, and send the exact error message to IT support if it continues."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The VPN login fails.",
+    "output": "Diagnosis: possible VPN credentials, network, or permission issue. Solution: verify your internet connection, confirm your username and password, restart the VPN client, check that the correct server is selected, and send the exact error message to IT support if it continues."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The VPN disconnects after a few minutes.",
+    "output": "Diagnosis: possible VPN credentials, network, or permission issue. Solution: verify your internet connection, confirm your username and password, restart the VPN client, check that the correct server is selected, and send the exact error message to IT support if it continues."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The VPN connects but internal systems do not open.",
+    "output": "Diagnosis: possible VPN credentials, network, or permission issue. Solution: verify your internet connection, confirm your username and password, restart the VPN client, check that the correct server is selected, and send the exact error message to IT support if it continues."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I cannot access company resources through VPN.",
+    "output": "Diagnosis: possible VPN credentials, network, or permission issue. Solution: verify your internet connection, confirm your username and password, restart the VPN client, check that the correct server is selected, and send the exact error message to IT support if it continues."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The VPN client shows an error.",
+    "output": "Diagnosis: possible VPN credentials, network, or permission issue. Solution: verify your internet connection, confirm your username and password, restart the VPN client, check that the correct server is selected, and send the exact error message to IT support if it continues."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My VPN password is not accepted.",
+    "output": "Diagnosis: possible VPN credentials, network, or permission issue. Solution: verify your internet connection, confirm your username and password, restart the VPN client, check that the correct server is selected, and send the exact error message to IT support if it continues."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The VPN is connected but shared folders do not work.",
+    "output": "Diagnosis: possible VPN credentials, network, or permission issue. Solution: verify your internet connection, confirm your username and password, restart the VPN client, check that the correct server is selected, and send the exact error message to IT support if it continues."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "Remote access fails when I use the VPN.",
+    "output": "Diagnosis: possible VPN credentials, network, or permission issue. Solution: verify your internet connection, confirm your username and password, restart the VPN client, check that the correct server is selected, and send the exact error message to IT support if it continues."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I forgot my password.",
+    "output": "Diagnosis: possible incorrect, expired, or forgotten password. Solution: check that Caps Lock is off, confirm that the username is correct, use the password recovery option, and create a new secure password. If the account is locked, contact the administrator."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I cannot log in because I do not remember my password.",
+    "output": "Diagnosis: possible incorrect, expired, or forgotten password. Solution: check that Caps Lock is off, confirm that the username is correct, use the password recovery option, and create a new secure password. If the account is locked, contact the administrator."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My password does not work.",
+    "output": "Diagnosis: possible incorrect, expired, or forgotten password. Solution: check that Caps Lock is off, confirm that the username is correct, use the password recovery option, and create a new secure password. If the account is locked, contact the administrator."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The system says my password is incorrect.",
+    "output": "Diagnosis: possible incorrect, expired, or forgotten password. Solution: check that Caps Lock is off, confirm that the username is correct, use the password recovery option, and create a new secure password. If the account is locked, contact the administrator."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I need to reset my account password.",
+    "output": "Diagnosis: possible incorrect, expired, or forgotten password. Solution: check that Caps Lock is off, confirm that the username is correct, use the password recovery option, and create a new secure password. If the account is locked, contact the administrator."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I cannot access my account with my current password.",
+    "output": "Diagnosis: possible incorrect, expired, or forgotten password. Solution: check that Caps Lock is off, confirm that the username is correct, use the password recovery option, and create a new secure password. If the account is locked, contact the administrator."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I typed my password but the login fails.",
+    "output": "Diagnosis: possible incorrect, expired, or forgotten password. Solution: check that Caps Lock is off, confirm that the username is correct, use the password recovery option, and create a new secure password. If the account is locked, contact the administrator."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The password recovery option is not working.",
+    "output": "Diagnosis: possible incorrect, expired, or forgotten password. Solution: check that Caps Lock is off, confirm that the username is correct, use the password recovery option, and create a new secure password. If the account is locked, contact the administrator."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I need help changing my password.",
+    "output": "Diagnosis: possible incorrect, expired, or forgotten password. Solution: check that Caps Lock is off, confirm that the username is correct, use the password recovery option, and create a new secure password. If the account is locked, contact the administrator."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My institutional password stopped working.",
+    "output": "Diagnosis: possible incorrect, expired, or forgotten password. Solution: check that Caps Lock is off, confirm that the username is correct, use the password recovery option, and create a new secure password. If the account is locked, contact the administrator."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My account is locked after many attempts.",
+    "output": "Diagnosis: possible locked account or multi-factor authentication problem. Solution: stop repeated login attempts, wait for the lockout period if indicated, check SMS, email, or authenticator time settings, and contact IT support to verify your identity and restore access."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I cannot log in because my account was blocked.",
+    "output": "Diagnosis: possible locked account or multi-factor authentication problem. Solution: stop repeated login attempts, wait for the lockout period if indicated, check SMS, email, or authenticator time settings, and contact IT support to verify your identity and restore access."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I am not receiving the verification code.",
+    "output": "Diagnosis: possible locked account or multi-factor authentication problem. Solution: stop repeated login attempts, wait for the lockout period if indicated, check SMS, email, or authenticator time settings, and contact IT support to verify your identity and restore access."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The two-factor authentication code does not arrive.",
+    "output": "Diagnosis: possible locked account or multi-factor authentication problem. Solution: stop repeated login attempts, wait for the lockout period if indicated, check SMS, email, or authenticator time settings, and contact IT support to verify your identity and restore access."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I lost access to my authenticator app.",
+    "output": "Diagnosis: possible locked account or multi-factor authentication problem. Solution: stop repeated login attempts, wait for the lockout period if indicated, check SMS, email, or authenticator time settings, and contact IT support to verify your identity and restore access."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My MFA code is not accepted.",
+    "output": "Diagnosis: possible locked account or multi-factor authentication problem. Solution: stop repeated login attempts, wait for the lockout period if indicated, check SMS, email, or authenticator time settings, and contact IT support to verify your identity and restore access."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The login asks for a code I do not have.",
+    "output": "Diagnosis: possible locked account or multi-factor authentication problem. Solution: stop repeated login attempts, wait for the lockout period if indicated, check SMS, email, or authenticator time settings, and contact IT support to verify your identity and restore access."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I changed my phone and lost my authentication app.",
+    "output": "Diagnosis: possible locked account or multi-factor authentication problem. Solution: stop repeated login attempts, wait for the lockout period if indicated, check SMS, email, or authenticator time settings, and contact IT support to verify your identity and restore access."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The system says too many failed login attempts.",
+    "output": "Diagnosis: possible locked account or multi-factor authentication problem. Solution: stop repeated login attempts, wait for the lockout period if indicated, check SMS, email, or authenticator time settings, and contact IT support to verify your identity and restore access."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I need to unlock my account.",
+    "output": "Diagnosis: possible locked account or multi-factor authentication problem. Solution: stop repeated login attempts, wait for the lockout period if indicated, check SMS, email, or authenticator time settings, and contact IT support to verify your identity and restore access."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My computer is very slow.",
+    "output": "Diagnosis: possible performance issue caused by too many processes, low disk space, updates, or malware. Solution: close unnecessary programs, restart the computer, check storage space, review startup apps, install pending updates, and run a full antivirus scan."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My laptop takes too long to start.",
+    "output": "Diagnosis: possible performance issue caused by too many processes, low disk space, updates, or malware. Solution: close unnecessary programs, restart the computer, check storage space, review startup apps, install pending updates, and run a full antivirus scan."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "Programs open very slowly.",
+    "output": "Diagnosis: possible performance issue caused by too many processes, low disk space, updates, or malware. Solution: close unnecessary programs, restart the computer, check storage space, review startup apps, install pending updates, and run a full antivirus scan."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The PC freezes all the time.",
+    "output": "Diagnosis: possible performance issue caused by too many processes, low disk space, updates, or malware. Solution: close unnecessary programs, restart the computer, check storage space, review startup apps, install pending updates, and run a full antivirus scan."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "Windows takes too long to boot.",
+    "output": "Diagnosis: possible performance issue caused by too many processes, low disk space, updates, or malware. Solution: close unnecessary programs, restart the computer, check storage space, review startup apps, install pending updates, and run a full antivirus scan."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The computer is lagging.",
+    "output": "Diagnosis: possible performance issue caused by too many processes, low disk space, updates, or malware. Solution: close unnecessary programs, restart the computer, check storage space, review startup apps, install pending updates, and run a full antivirus scan."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My device becomes slow when I open several apps.",
+    "output": "Diagnosis: possible performance issue caused by too many processes, low disk space, updates, or malware. Solution: close unnecessary programs, restart the computer, check storage space, review startup apps, install pending updates, and run a full antivirus scan."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "Everything on my computer responds slowly.",
+    "output": "Diagnosis: possible performance issue caused by too many processes, low disk space, updates, or malware. Solution: close unnecessary programs, restart the computer, check storage space, review startup apps, install pending updates, and run a full antivirus scan."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The system freezes when I work.",
+    "output": "Diagnosis: possible performance issue caused by too many processes, low disk space, updates, or malware. Solution: close unnecessary programs, restart the computer, check storage space, review startup apps, install pending updates, and run a full antivirus scan."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My laptop is slower than usual.",
+    "output": "Diagnosis: possible performance issue caused by too many processes, low disk space, updates, or malware. Solution: close unnecessary programs, restart the computer, check storage space, review startup apps, install pending updates, and run a full antivirus scan."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My computer turns off by itself.",
+    "output": "Diagnosis: possible overheating, battery, charger, or hardware problem. Solution: place the device on a ventilated surface, close heavy apps, check the charger and power outlet, do not use the device if it smells burned, and escalate to IT for physical inspection."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The laptop gets too hot.",
+    "output": "Diagnosis: possible overheating, battery, charger, or hardware problem. Solution: place the device on a ventilated surface, close heavy apps, check the charger and power outlet, do not use the device if it smells burned, and escalate to IT for physical inspection."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The fan is very loud.",
+    "output": "Diagnosis: possible overheating, battery, charger, or hardware problem. Solution: place the device on a ventilated surface, close heavy apps, check the charger and power outlet, do not use the device if it smells burned, and escalate to IT for physical inspection."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My computer shuts down suddenly.",
+    "output": "Diagnosis: possible overheating, battery, charger, or hardware problem. Solution: place the device on a ventilated surface, close heavy apps, check the charger and power outlet, do not use the device if it smells burned, and escalate to IT for physical inspection."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The device overheats when I use it.",
+    "output": "Diagnosis: possible overheating, battery, charger, or hardware problem. Solution: place the device on a ventilated surface, close heavy apps, check the charger and power outlet, do not use the device if it smells burned, and escalate to IT for physical inspection."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The laptop battery drains very fast.",
+    "output": "Diagnosis: possible overheating, battery, charger, or hardware problem. Solution: place the device on a ventilated surface, close heavy apps, check the charger and power outlet, do not use the device if it smells burned, and escalate to IT for physical inspection."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The charger does not charge my laptop.",
+    "output": "Diagnosis: possible overheating, battery, charger, or hardware problem. Solution: place the device on a ventilated surface, close heavy apps, check the charger and power outlet, do not use the device if it smells burned, and escalate to IT for physical inspection."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The computer smells like burning.",
+    "output": "Diagnosis: possible overheating, battery, charger, or hardware problem. Solution: place the device on a ventilated surface, close heavy apps, check the charger and power outlet, do not use the device if it smells burned, and escalate to IT for physical inspection."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The laptop makes strange noises.",
+    "output": "Diagnosis: possible overheating, battery, charger, or hardware problem. Solution: place the device on a ventilated surface, close heavy apps, check the charger and power outlet, do not use the device if it smells burned, and escalate to IT for physical inspection."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The computer powers off during work.",
+    "output": "Diagnosis: possible overheating, battery, charger, or hardware problem. Solution: place the device on a ventilated surface, close heavy apps, check the charger and power outlet, do not use the device if it smells burned, and escalate to IT for physical inspection."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My computer does not turn on.",
+    "output": "Diagnosis: possible power, operating system, update, driver, or hardware issue. Solution: disconnect external devices, restart the computer, note any error code, avoid forcing shutdown during updates, and contact IT support if Windows does not load or the blue screen returns."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The laptop turns on but Windows does not load.",
+    "output": "Diagnosis: possible power, operating system, update, driver, or hardware issue. Solution: disconnect external devices, restart the computer, note any error code, avoid forcing shutdown during updates, and contact IT support if Windows does not load or the blue screen returns."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "Windows is stuck on the startup screen.",
+    "output": "Diagnosis: possible power, operating system, update, driver, or hardware issue. Solution: disconnect external devices, restart the computer, note any error code, avoid forcing shutdown during updates, and contact IT support if Windows does not load or the blue screen returns."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I get a blue screen error.",
+    "output": "Diagnosis: possible power, operating system, update, driver, or hardware issue. Solution: disconnect external devices, restart the computer, note any error code, avoid forcing shutdown during updates, and contact IT support if Windows does not load or the blue screen returns."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "Windows update is stuck.",
+    "output": "Diagnosis: possible power, operating system, update, driver, or hardware issue. Solution: disconnect external devices, restart the computer, note any error code, avoid forcing shutdown during updates, and contact IT support if Windows does not load or the blue screen returns."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "After updating Windows, something stopped working.",
+    "output": "Diagnosis: possible power, operating system, update, driver, or hardware issue. Solution: disconnect external devices, restart the computer, note any error code, avoid forcing shutdown during updates, and contact IT support if Windows does not load or the blue screen returns."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The screen stays black when I turn on the laptop.",
+    "output": "Diagnosis: possible power, operating system, update, driver, or hardware issue. Solution: disconnect external devices, restart the computer, note any error code, avoid forcing shutdown during updates, and contact IT support if Windows does not load or the blue screen returns."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My computer is stuck restarting.",
+    "output": "Diagnosis: possible power, operating system, update, driver, or hardware issue. Solution: disconnect external devices, restart the computer, note any error code, avoid forcing shutdown during updates, and contact IT support if Windows does not load or the blue screen returns."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The system does not boot correctly.",
+    "output": "Diagnosis: possible power, operating system, update, driver, or hardware issue. Solution: disconnect external devices, restart the computer, note any error code, avoid forcing shutdown during updates, and contact IT support if Windows does not load or the blue screen returns."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I see a recovery screen when starting Windows.",
+    "output": "Diagnosis: possible power, operating system, update, driver, or hardware issue. Solution: disconnect external devices, restart the computer, note any error code, avoid forcing shutdown during updates, and contact IT support if Windows does not load or the blue screen returns."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The printer does not print.",
+    "output": "Diagnosis: possible printer connection, driver, supplies, or print queue problem. Solution: verify that the printer is powered on, has paper and ink or toner, check the network or USB connection, clear stuck print jobs, restart the printer, and reinstall or update the driver if needed."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I sent a document but nothing comes out.",
+    "output": "Diagnosis: possible printer connection, driver, supplies, or print queue problem. Solution: verify that the printer is powered on, has paper and ink or toner, check the network or USB connection, clear stuck print jobs, restart the printer, and reinstall or update the driver if needed."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The printer appears offline.",
+    "output": "Diagnosis: possible printer connection, driver, supplies, or print queue problem. Solution: verify that the printer is powered on, has paper and ink or toner, check the network or USB connection, clear stuck print jobs, restart the printer, and reinstall or update the driver if needed."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The print job is stuck in the queue.",
+    "output": "Diagnosis: possible printer connection, driver, supplies, or print queue problem. Solution: verify that the printer is powered on, has paper and ink or toner, check the network or USB connection, clear stuck print jobs, restart the printer, and reinstall or update the driver if needed."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The printer prints blank pages.",
+    "output": "Diagnosis: possible printer connection, driver, supplies, or print queue problem. Solution: verify that the printer is powered on, has paper and ink or toner, check the network or USB connection, clear stuck print jobs, restart the printer, and reinstall or update the driver if needed."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The printer prints very slowly.",
+    "output": "Diagnosis: possible printer connection, driver, supplies, or print queue problem. Solution: verify that the printer is powered on, has paper and ink or toner, check the network or USB connection, clear stuck print jobs, restart the printer, and reinstall or update the driver if needed."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I cannot print over the network.",
+    "output": "Diagnosis: possible printer connection, driver, supplies, or print queue problem. Solution: verify that the printer is powered on, has paper and ink or toner, check the network or USB connection, clear stuck print jobs, restart the printer, and reinstall or update the driver if needed."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The printer does not appear in my list.",
+    "output": "Diagnosis: possible printer connection, driver, supplies, or print queue problem. Solution: verify that the printer is powered on, has paper and ink or toner, check the network or USB connection, clear stuck print jobs, restart the printer, and reinstall or update the driver if needed."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The printer shows a paper error.",
+    "output": "Diagnosis: possible printer connection, driver, supplies, or print queue problem. Solution: verify that the printer is powered on, has paper and ink or toner, check the network or USB connection, clear stuck print jobs, restart the printer, and reinstall or update the driver if needed."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The printer is on but it does not respond.",
+    "output": "Diagnosis: possible printer connection, driver, supplies, or print queue problem. Solution: verify that the printer is powered on, has paper and ink or toner, check the network or USB connection, clear stuck print jobs, restart the printer, and reinstall or update the driver if needed."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I cannot install the printer.",
+    "output": "Diagnosis: possible printer connection, driver, supplies, or print queue problem. Solution: verify that the printer is powered on, has paper and ink or toner, check the network or USB connection, clear stuck print jobs, restart the printer, and reinstall or update the driver if needed."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The printer has toner but still shows an error.",
+    "output": "Diagnosis: possible printer connection, driver, supplies, or print queue problem. Solution: verify that the printer is powered on, has paper and ink or toner, check the network or USB connection, clear stuck print jobs, restart the printer, and reinstall or update the driver if needed."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The scanner does not work.",
+    "output": "Diagnosis: possible scanner driver, connection, or scanning software problem. Solution: confirm that the scanner is powered on, check the USB or network connection, open the correct scanning application, restart the device, and update or reinstall the scanner driver."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I cannot scan documents.",
+    "output": "Diagnosis: possible scanner driver, connection, or scanning software problem. Solution: confirm that the scanner is powered on, check the USB or network connection, open the correct scanning application, restart the device, and update or reinstall the scanner driver."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The multifunction printer does not scan.",
+    "output": "Diagnosis: possible scanner driver, connection, or scanning software problem. Solution: confirm that the scanner is powered on, check the USB or network connection, open the correct scanning application, restart the device, and update or reinstall the scanner driver."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The scanning app does not detect the scanner.",
+    "output": "Diagnosis: possible scanner driver, connection, or scanning software problem. Solution: confirm that the scanner is powered on, check the USB or network connection, open the correct scanning application, restart the device, and update or reinstall the scanner driver."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "Scanned documents are not being saved.",
+    "output": "Diagnosis: possible scanner driver, connection, or scanning software problem. Solution: confirm that the scanner is powered on, check the USB or network connection, open the correct scanning application, restart the device, and update or reinstall the scanner driver."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The scanner shows a connection error.",
+    "output": "Diagnosis: possible scanner driver, connection, or scanning software problem. Solution: confirm that the scanner is powered on, check the USB or network connection, open the correct scanning application, restart the device, and update or reinstall the scanner driver."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I can print but I cannot scan.",
+    "output": "Diagnosis: possible scanner driver, connection, or scanning software problem. Solution: confirm that the scanner is powered on, check the USB or network connection, open the correct scanning application, restart the device, and update or reinstall the scanner driver."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The scanner button does nothing.",
+    "output": "Diagnosis: possible scanner driver, connection, or scanning software problem. Solution: confirm that the scanner is powered on, check the USB or network connection, open the correct scanning application, restart the device, and update or reinstall the scanner driver."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I cannot open Word.",
+    "output": "Diagnosis: possible software error, missing permissions, expired license, or damaged installation. Solution: restart the application, reboot the computer, check for updates, run the program as administrator only if authorized, repair or reinstall the software, and contact IT for licenses or admin permissions."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "Excel is not responding.",
+    "output": "Diagnosis: possible software error, missing permissions, expired license, or damaged installation. Solution: restart the application, reboot the computer, check for updates, run the program as administrator only if authorized, repair or reinstall the software, and contact IT for licenses or admin permissions."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "PowerPoint closes by itself.",
+    "output": "Diagnosis: possible software error, missing permissions, expired license, or damaged installation. Solution: restart the application, reboot the computer, check for updates, run the program as administrator only if authorized, repair or reinstall the software, and contact IT for licenses or admin permissions."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The program shows an error when it starts.",
+    "output": "Diagnosis: possible software error, missing permissions, expired license, or damaged installation. Solution: restart the application, reboot the computer, check for updates, run the program as administrator only if authorized, repair or reinstall the software, and contact IT for licenses or admin permissions."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The application freezes.",
+    "output": "Diagnosis: possible software error, missing permissions, expired license, or damaged installation. Solution: restart the application, reboot the computer, check for updates, run the program as administrator only if authorized, repair or reinstall the software, and contact IT for licenses or admin permissions."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I cannot install an application.",
+    "output": "Diagnosis: possible software error, missing permissions, expired license, or damaged installation. Solution: restart the application, reboot the computer, check for updates, run the program as administrator only if authorized, repair or reinstall the software, and contact IT for licenses or admin permissions."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The software needs an update.",
+    "output": "Diagnosis: possible software error, missing permissions, expired license, or damaged installation. Solution: restart the application, reboot the computer, check for updates, run the program as administrator only if authorized, repair or reinstall the software, and contact IT for licenses or admin permissions."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The program crashes every time I open it.",
+    "output": "Diagnosis: possible software error, missing permissions, expired license, or damaged installation. Solution: restart the application, reboot the computer, check for updates, run the program as administrator only if authorized, repair or reinstall the software, and contact IT for licenses or admin permissions."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The app says installation failed.",
+    "output": "Diagnosis: possible software error, missing permissions, expired license, or damaged installation. Solution: restart the application, reboot the computer, check for updates, run the program as administrator only if authorized, repair or reinstall the software, and contact IT for licenses or admin permissions."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I do not have permission to install software.",
+    "output": "Diagnosis: possible software error, missing permissions, expired license, or damaged installation. Solution: restart the application, reboot the computer, check for updates, run the program as administrator only if authorized, repair or reinstall the software, and contact IT for licenses or admin permissions."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "Office asks me to activate the license.",
+    "output": "Diagnosis: possible software error, missing permissions, expired license, or damaged installation. Solution: restart the application, reboot the computer, check for updates, run the program as administrator only if authorized, repair or reinstall the software, and contact IT for licenses or admin permissions."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The application license is expired.",
+    "output": "Diagnosis: possible software error, missing permissions, expired license, or damaged installation. Solution: restart the application, reboot the computer, check for updates, run the program as administrator only if authorized, repair or reinstall the software, and contact IT for licenses or admin permissions."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "A program stopped working after an update.",
+    "output": "Diagnosis: possible software error, missing permissions, expired license, or damaged installation. Solution: restart the application, reboot the computer, check for updates, run the program as administrator only if authorized, repair or reinstall the software, and contact IT for licenses or admin permissions."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The software opens but closes immediately.",
+    "output": "Diagnosis: possible software error, missing permissions, expired license, or damaged installation. Solution: restart the application, reboot the computer, check for updates, run the program as administrator only if authorized, repair or reinstall the software, and contact IT for licenses or admin permissions."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I need to install a program for work.",
+    "output": "Diagnosis: possible software error, missing permissions, expired license, or damaged installation. Solution: restart the application, reboot the computer, check for updates, run the program as administrator only if authorized, repair or reinstall the software, and contact IT for licenses or admin permissions."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I cannot send emails.",
+    "output": "Diagnosis: possible email synchronization, storage, credentials, or attachment issue. Solution: verify internet connection, restart Outlook or the email app, check spam and outbox folders, remove unnecessary emails if the mailbox is full, reduce attachment size, and sign in again if required."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I am not receiving emails.",
+    "output": "Diagnosis: possible email synchronization, storage, credentials, or attachment issue. Solution: verify internet connection, restart Outlook or the email app, check spam and outbox folders, remove unnecessary emails if the mailbox is full, reduce attachment size, and sign in again if required."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "Outlook does not load my messages.",
+    "output": "Diagnosis: possible email synchronization, storage, credentials, or attachment issue. Solution: verify internet connection, restart Outlook or the email app, check spam and outbox folders, remove unnecessary emails if the mailbox is full, reduce attachment size, and sign in again if required."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My email is not syncing.",
+    "output": "Diagnosis: possible email synchronization, storage, credentials, or attachment issue. Solution: verify internet connection, restart Outlook or the email app, check spam and outbox folders, remove unnecessary emails if the mailbox is full, reduce attachment size, and sign in again if required."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I cannot attach files to an email.",
+    "output": "Diagnosis: possible email synchronization, storage, credentials, or attachment issue. Solution: verify internet connection, restart Outlook or the email app, check spam and outbox folders, remove unnecessary emails if the mailbox is full, reduce attachment size, and sign in again if required."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My mailbox is full.",
+    "output": "Diagnosis: possible email synchronization, storage, credentials, or attachment issue. Solution: verify internet connection, restart Outlook or the email app, check spam and outbox folders, remove unnecessary emails if the mailbox is full, reduce attachment size, and sign in again if required."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I cannot access my institutional email.",
+    "output": "Diagnosis: possible email synchronization, storage, credentials, or attachment issue. Solution: verify internet connection, restart Outlook or the email app, check spam and outbox folders, remove unnecessary emails if the mailbox is full, reduce attachment size, and sign in again if required."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "Emails are stuck in the outbox.",
+    "output": "Diagnosis: possible email synchronization, storage, credentials, or attachment issue. Solution: verify internet connection, restart Outlook or the email app, check spam and outbox folders, remove unnecessary emails if the mailbox is full, reduce attachment size, and sign in again if required."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "Attachments are not uploading.",
+    "output": "Diagnosis: possible email synchronization, storage, credentials, or attachment issue. Solution: verify internet connection, restart Outlook or the email app, check spam and outbox folders, remove unnecessary emails if the mailbox is full, reduce attachment size, and sign in again if required."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I cannot log in to Outlook.",
+    "output": "Diagnosis: possible email synchronization, storage, credentials, or attachment issue. Solution: verify internet connection, restart Outlook or the email app, check spam and outbox folders, remove unnecessary emails if the mailbox is full, reduce attachment size, and sign in again if required."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My email app keeps asking for my password.",
+    "output": "Diagnosis: possible email synchronization, storage, credentials, or attachment issue. Solution: verify internet connection, restart Outlook or the email app, check spam and outbox folders, remove unnecessary emails if the mailbox is full, reduce attachment size, and sign in again if required."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I receive emails late.",
+    "output": "Diagnosis: possible email synchronization, storage, credentials, or attachment issue. Solution: verify internet connection, restart Outlook or the email app, check spam and outbox folders, remove unnecessary emails if the mailbox is full, reduce attachment size, and sign in again if required."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The email search does not work.",
+    "output": "Diagnosis: possible email synchronization, storage, credentials, or attachment issue. Solution: verify internet connection, restart Outlook or the email app, check spam and outbox folders, remove unnecessary emails if the mailbox is full, reduce attachment size, and sign in again if required."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I cannot open an email attachment.",
+    "output": "Diagnosis: possible email synchronization, storage, credentials, or attachment issue. Solution: verify internet connection, restart Outlook or the email app, check spam and outbox folders, remove unnecessary emails if the mailbox is full, reduce attachment size, and sign in again if required."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "There is no sound on my computer.",
+    "output": "Diagnosis: possible audio, microphone, camera, permission, or meeting app configuration issue. Solution: select the correct input and output device, check app permissions, close other apps using the camera or microphone, reconnect the device, update drivers, and test in another application."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The microphone does not work in meetings.",
+    "output": "Diagnosis: possible audio, microphone, camera, permission, or meeting app configuration issue. Solution: select the correct input and output device, check app permissions, close other apps using the camera or microphone, reconnect the device, update drivers, and test in another application."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "People cannot hear me in Teams.",
+    "output": "Diagnosis: possible audio, microphone, camera, permission, or meeting app configuration issue. Solution: select the correct input and output device, check app permissions, close other apps using the camera or microphone, reconnect the device, update drivers, and test in another application."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The camera does not turn on in Zoom.",
+    "output": "Diagnosis: possible audio, microphone, camera, permission, or meeting app configuration issue. Solution: select the correct input and output device, check app permissions, close other apps using the camera or microphone, reconnect the device, update drivers, and test in another application."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "Google Meet does not detect my camera.",
+    "output": "Diagnosis: possible audio, microphone, camera, permission, or meeting app configuration issue. Solution: select the correct input and output device, check app permissions, close other apps using the camera or microphone, reconnect the device, update drivers, and test in another application."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The sound is choppy during calls.",
+    "output": "Diagnosis: possible audio, microphone, camera, permission, or meeting app configuration issue. Solution: select the correct input and output device, check app permissions, close other apps using the camera or microphone, reconnect the device, update drivers, and test in another application."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My headphones are not detected.",
+    "output": "Diagnosis: possible audio, microphone, camera, permission, or meeting app configuration issue. Solution: select the correct input and output device, check app permissions, close other apps using the camera or microphone, reconnect the device, update drivers, and test in another application."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I hear echo during a meeting.",
+    "output": "Diagnosis: possible audio, microphone, camera, permission, or meeting app configuration issue. Solution: select the correct input and output device, check app permissions, close other apps using the camera or microphone, reconnect the device, update drivers, and test in another application."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I cannot share my screen in a meeting.",
+    "output": "Diagnosis: possible audio, microphone, camera, permission, or meeting app configuration issue. Solution: select the correct input and output device, check app permissions, close other apps using the camera or microphone, reconnect the device, update drivers, and test in another application."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The webcam light turns on but there is no image.",
+    "output": "Diagnosis: possible audio, microphone, camera, permission, or meeting app configuration issue. Solution: select the correct input and output device, check app permissions, close other apps using the camera or microphone, reconnect the device, update drivers, and test in another application."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "Teams is using the wrong microphone.",
+    "output": "Diagnosis: possible audio, microphone, camera, permission, or meeting app configuration issue. Solution: select the correct input and output device, check app permissions, close other apps using the camera or microphone, reconnect the device, update drivers, and test in another application."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "Zoom says the camera is unavailable.",
+    "output": "Diagnosis: possible audio, microphone, camera, permission, or meeting app configuration issue. Solution: select the correct input and output device, check app permissions, close other apps using the camera or microphone, reconnect the device, update drivers, and test in another application."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My USB drive does not appear on the computer.",
+    "output": "Diagnosis: possible port, cable, driver, battery, display, or Bluetooth pairing problem. Solution: reconnect the device, try another port or cable, check batteries if wireless, select the correct display input, update drivers, and do not format a drive if you need to recover data."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The keyboard does not respond.",
+    "output": "Diagnosis: possible port, cable, driver, battery, display, or Bluetooth pairing problem. Solution: reconnect the device, try another port or cable, check batteries if wireless, select the correct display input, update drivers, and do not format a drive if you need to recover data."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The mouse does not respond.",
+    "output": "Diagnosis: possible port, cable, driver, battery, display, or Bluetooth pairing problem. Solution: reconnect the device, try another port or cable, check batteries if wireless, select the correct display input, update drivers, and do not format a drive if you need to recover data."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The mouse moves by itself.",
+    "output": "Diagnosis: possible port, cable, driver, battery, display, or Bluetooth pairing problem. Solution: reconnect the device, try another port or cable, check batteries if wireless, select the correct display input, update drivers, and do not format a drive if you need to recover data."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My monitor does not show an image.",
+    "output": "Diagnosis: possible port, cable, driver, battery, display, or Bluetooth pairing problem. Solution: reconnect the device, try another port or cable, check batteries if wireless, select the correct display input, update drivers, and do not format a drive if you need to recover data."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The screen flickers.",
+    "output": "Diagnosis: possible port, cable, driver, battery, display, or Bluetooth pairing problem. Solution: reconnect the device, try another port or cable, check batteries if wireless, select the correct display input, update drivers, and do not format a drive if you need to recover data."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "Windows does not recognize my external drive.",
+    "output": "Diagnosis: possible port, cable, driver, battery, display, or Bluetooth pairing problem. Solution: reconnect the device, try another port or cable, check batteries if wireless, select the correct display input, update drivers, and do not format a drive if you need to recover data."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I cannot connect a Bluetooth device.",
+    "output": "Diagnosis: possible port, cable, driver, battery, display, or Bluetooth pairing problem. Solution: reconnect the device, try another port or cable, check batteries if wireless, select the correct display input, update drivers, and do not format a drive if you need to recover data."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My Bluetooth headphones disconnect.",
+    "output": "Diagnosis: possible port, cable, driver, battery, display, or Bluetooth pairing problem. Solution: reconnect the device, try another port or cable, check batteries if wireless, select the correct display input, update drivers, and do not format a drive if you need to recover data."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The projector does not detect my laptop.",
+    "output": "Diagnosis: possible port, cable, driver, battery, display, or Bluetooth pairing problem. Solution: reconnect the device, try another port or cable, check batteries if wireless, select the correct display input, update drivers, and do not format a drive if you need to recover data."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I cannot project my screen.",
+    "output": "Diagnosis: possible port, cable, driver, battery, display, or Bluetooth pairing problem. Solution: reconnect the device, try another port or cable, check batteries if wireless, select the correct display input, update drivers, and do not format a drive if you need to recover data."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The external monitor is not detected.",
+    "output": "Diagnosis: possible port, cable, driver, battery, display, or Bluetooth pairing problem. Solution: reconnect the device, try another port or cable, check batteries if wireless, select the correct display input, update drivers, and do not format a drive if you need to recover data."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The USB port is not working.",
+    "output": "Diagnosis: possible port, cable, driver, battery, display, or Bluetooth pairing problem. Solution: reconnect the device, try another port or cable, check batteries if wireless, select the correct display input, update drivers, and do not format a drive if you need to recover data."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My external hard drive asks to be formatted.",
+    "output": "Diagnosis: possible port, cable, driver, battery, display, or Bluetooth pairing problem. Solution: reconnect the device, try another port or cable, check batteries if wireless, select the correct display input, update drivers, and do not format a drive if you need to recover data."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I think my computer has a virus.",
+    "output": "Diagnosis: possible malware, adware, or phishing incident. Solution: do not open suspicious files or links, disconnect from the network if the device behaves strangely, run a full antivirus scan, change your password if credentials were entered, and report the incident to IT security immediately."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "Many pop-up windows appear on my browser.",
+    "output": "Diagnosis: possible malware, adware, or phishing incident. Solution: do not open suspicious files or links, disconnect from the network if the device behaves strangely, run a full antivirus scan, change your password if credentials were entered, and report the incident to IT security immediately."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My browser opens pages by itself.",
+    "output": "Diagnosis: possible malware, adware, or phishing incident. Solution: do not open suspicious files or links, disconnect from the network if the device behaves strangely, run a full antivirus scan, change your password if credentials were entered, and report the incident to IT security immediately."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I downloaded a suspicious file.",
+    "output": "Diagnosis: possible malware, adware, or phishing incident. Solution: do not open suspicious files or links, disconnect from the network if the device behaves strangely, run a full antivirus scan, change your password if credentials were entered, and report the incident to IT security immediately."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The antivirus detected a threat.",
+    "output": "Diagnosis: possible malware, adware, or phishing incident. Solution: do not open suspicious files or links, disconnect from the network if the device behaves strangely, run a full antivirus scan, change your password if credentials were entered, and report the incident to IT security immediately."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I opened a suspicious link in an email.",
+    "output": "Diagnosis: possible malware, adware, or phishing incident. Solution: do not open suspicious files or links, disconnect from the network if the device behaves strangely, run a full antivirus scan, change your password if credentials were entered, and report the incident to IT security immediately."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I receive many suspicious emails.",
+    "output": "Diagnosis: possible malware, adware, or phishing incident. Solution: do not open suspicious files or links, disconnect from the network if the device behaves strangely, run a full antivirus scan, change your password if credentials were entered, and report the incident to IT security immediately."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I entered my password on a suspicious website.",
+    "output": "Diagnosis: possible malware, adware, or phishing incident. Solution: do not open suspicious files or links, disconnect from the network if the device behaves strangely, run a full antivirus scan, change your password if credentials were entered, and report the incident to IT security immediately."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "My computer behaves strangely after downloading a file.",
+    "output": "Diagnosis: possible malware, adware, or phishing incident. Solution: do not open suspicious files or links, disconnect from the network if the device behaves strangely, run a full antivirus scan, change your password if credentials were entered, and report the incident to IT security immediately."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The browser installed unknown extensions.",
+    "output": "Diagnosis: possible malware, adware, or phishing incident. Solution: do not open suspicious files or links, disconnect from the network if the device behaves strangely, run a full antivirus scan, change your password if credentials were entered, and report the incident to IT security immediately."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I clicked a phishing email.",
+    "output": "Diagnosis: possible malware, adware, or phishing incident. Solution: do not open suspicious files or links, disconnect from the network if the device behaves strangely, run a full antivirus scan, change your password if credentials were entered, and report the incident to IT security immediately."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The antivirus says malware was quarantined.",
+    "output": "Diagnosis: possible malware, adware, or phishing incident. Solution: do not open suspicious files or links, disconnect from the network if the device behaves strangely, run a full antivirus scan, change your password if credentials were entered, and report the incident to IT security immediately."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I cannot open a website.",
+    "output": "Diagnosis: possible browser cache, connection, permission, session, or server problem. Solution: refresh the page, check the URL, clear browser cache, try another browser or incognito mode, sign in again, and report error codes such as 404 or 500 to IT support."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The browser is very slow.",
+    "output": "Diagnosis: possible browser cache, connection, permission, session, or server problem. Solution: refresh the page, check the URL, clear browser cache, try another browser or incognito mode, sign in again, and report error codes such as 404 or 500 to IT support."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "Chrome closes by itself.",
+    "output": "Diagnosis: possible browser cache, connection, permission, session, or server problem. Solution: refresh the page, check the URL, clear browser cache, try another browser or incognito mode, sign in again, and report error codes such as 404 or 500 to IT support."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I cannot download files.",
+    "output": "Diagnosis: possible browser cache, connection, permission, session, or server problem. Solution: refresh the page, check the URL, clear browser cache, try another browser or incognito mode, sign in again, and report error codes such as 404 or 500 to IT support."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "A web page keeps loading forever.",
+    "output": "Diagnosis: possible browser cache, connection, permission, session, or server problem. Solution: refresh the page, check the URL, clear browser cache, try another browser or incognito mode, sign in again, and report error codes such as 404 or 500 to IT support."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I get error 404.",
+    "output": "Diagnosis: possible browser cache, connection, permission, session, or server problem. Solution: refresh the page, check the URL, clear browser cache, try another browser or incognito mode, sign in again, and report error codes such as 404 or 500 to IT support."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "I get error 500.",
+    "output": "Diagnosis: possible browser cache, connection, permission, session, or server problem. Solution: refresh the page, check the URL, clear browser cache, try another browser or incognito mode, sign in again, and report error codes such as 404 or 500 to IT support."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The page says access denied.",
+    "output": "Diagnosis: possible browser cache, connection, permission, session, or server problem. Solution: refresh the page, check the URL, clear browser cache, try another browser or incognito mode, sign in again, and report error codes such as 404 or 500 to IT support."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The page says session expired.",
+    "output": "Diagnosis: possible browser cache, connection, permission, session, or server problem. Solution: refresh the page, check the URL, clear browser cache, try another browser or incognito mode, sign in again, and report error codes such as 404 or 500 to IT support."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The application website does not load.",
+    "output": "Diagnosis: possible browser cache, connection, permission, session, or server problem. Solution: refresh the page, check the URL, clear browser cache, try another browser or incognito mode, sign in again, and report error codes such as 404 or 500 to IT support."
+  },
+  {
+    "instruction": "Act as an IT Helpdesk support chatbot. Diagnose the user's technical problem and provide a clear, brief, and ordered solution. Always answer in English.",
+    "input": "The system gives me a server error.",
+    "output": "Diagnosis: possible browser cache, connection, permission, session, or server problem. Solution: refresh the page, check the URL, clear browser cache, try another browser or incognito mode, sign in again, and report error codes such as 404 or 500 to IT support."
+  }
+]
